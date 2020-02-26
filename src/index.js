@@ -9,8 +9,6 @@ const {setupWebsocket} = require('./websocket');
 const app = express();
 const server = http.Server(app);
 
-setupWebsocket(server);
-
 // Mongoose setup 
 mongoose.set('useUnifiedTopology', true);
 mongoose.set('useCreateIndex', true);
@@ -19,6 +17,9 @@ mongoose.connect(
     ,{ useNewUrlParser: true }
     );
  
+
+setupWebsocket(server);
+
 // Habilitar acesso externo a API 
 app.use(cors());
 
