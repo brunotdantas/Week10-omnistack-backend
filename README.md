@@ -9,7 +9,8 @@
     - Uso do websocket para resposta em tempo real para os aplicativos e APP web 
     - Uso do MongoDb para armazenar e validar pelo modelo (MVC) os dados recebidos 
     - Uso do controle de mapas e métodos de busca em mapas com mongo 
-    - Construção de CRUD de desenvolvedores 
+    - Construção de CRUD de desenvolvedores em mongoDB
+
 
 ### Para executar o projeto: 
     Sugiro utilizar o gitpod clicando no link abaixo
@@ -17,12 +18,12 @@
 [GitPod](https://gitpod.io/#https://github.com/brunotdantas/Week10-omnistack-backend/)
 
 ### Tecnologias que tive contato 
-- [Imsonia](https://insomnia.rest/) to test the backend routes
+- [Imsonia](https://insomnia.rest/) para testar rotas de backend
 - MongoDB
 - yarn e NPM
 
 #### Githubs relacionados: 
-[BACKEND](https://github.com/brunotdantas/Week10-omnistack-backend)
+[FRONTEND](https://github.com/brunotdantas/Week10-omnistack-frontend)
 
 [MOBILE](https://github.com/brunotdantas/Week10-omnistack-mobile/)
 
