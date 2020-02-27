@@ -15,3 +15,15 @@
     Sugiro utilizar o gitpod clicando no link abaixo
     
 [GitPod](https://gitpod.io/#https://github.com/brunotdantas/Week10-omnistack-backend/)
+
+### Tecnologias que tive contato 
+- [Imsonia](https://insomnia.rest/) to test the backend routes
+- MongoDB
+- yarn e NPM
+
+#### Githubs relacionados: 
+[BACKEND](https://github.com/brunotdantas/Week10-omnistack-backend)
+
+[MOBILE](https://github.com/brunotdantas/Week10-omnistack-mobile/)
+
+
