@@ -13,7 +13,7 @@ const server = http.Server(app);
 mongoose.set('useUnifiedTopology', true);
 mongoose.set('useCreateIndex', true);
 mongoose.connect(
-    'mongodb+srv://brunotdantas:FwH9wgRL0RU32zT4@cluster0-p9srt.gcp.mongodb.net/week10?retryWrites=true&w=majority'
+    '' // link para conexão ao banco
     ,{ useNewUrlParser: true }
     );
  
